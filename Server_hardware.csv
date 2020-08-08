@@ -1,0 +1,166 @@
+Server Name,Vendor,Model,Serial #,Humber Tag,Location,Room,Rack,Rack Unit,Ship Date,Warranty End Date,# of Days Left,PO#,Status,Environment,DR Recovery,DR Configuration,Maintenance,Tier,Technical Owner,Service Owner,Usage,Notes
+Host-1,Dell,PE M630,GYWCB42,253918,North,N100,A,,2015-04-20,2020-04-21,290,P0047464,In Use,PROD,No,NA,MAWeekend,Tier 2,BryanNice,BruceMacMillan,Unknown,Canaan replacement
+Host-2,Dell,PE M630,7X1FS52,252786,North,N100,A,,2015-07-11,2020-07-12,372,P0053463,In Use,DEV,No,NA,Weeknights,Tier 3,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod WL
+Host-3,Dell,PE M620,F03NBY1,252104,North,N100,A,,2013-10-19,2018-10-20,-259,P0027668,In Use,DEV,No,NA,Weeknights,Tier 3,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod DB
+Host-4,Dell,PE R730,5SMBSD2,254237,North,E300,C,,2016-10-12,2021-10-13,830,P0069880,In Use,In Build,No,NA,Weeknights,Tier 3,ScottEng,BruceMacMillan,Infrastructure,Lakeshore DHCP / DFS
+Host-5,Dell,PE R815,6W2Y8Z1,253563,North,N100,A,,2013-11-05,2018-11-06,-242,P0029432,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Monitoring,Solarwinds monitor
+Host-6,Dell,PE M630,7X09S52,253928,North,N100,A,,2015-07-11,2020-07-12,372,P0053460,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Prod WL
+Host-7,Dell,PE R710,JR7SXR1,246426,North,N100,A,,2012-02-28,2017-03-01,-857,,In Use,PROD,No,NA,MAWeekend,Tier 2,ScottEng,RogLebeau,Academics,ESXi Host - Applied vCloud
+Host-8,Dell,PE M630,GJL0B42,253901,North,N100,A,,2015-03-12,2020-03-13,251,P0047611,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - vCloudmanagement
+Host-9,Dell,PE M630,JLS8SD2,254232,North,N100,C,,2016-10-14,2021-10-15,832,P0069878,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-10,Dell,PE2970,6S3NXF1,245431,North,E300,C,,2008-03-20,2013-03-20,-2299,P070091,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,JimBaird,Facilities,Facilities Management
+Host-11,Dell,PE R820,5JKVK02,252776,North,E300,C,,2014-04-23,2019-04-24,-73,P0036571,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,JimBaird,Facilities,Facilities Management
+Host-12,Apple,Mac Pro Server,H02100C6HPW,251291,North,E300,C,,,,,P0007248,In Use,PROD,No,NA,MAWeekend,Tier 2,JeffBridge,OmarB,Client Services,ITS Mac netboot images
+Host-13,Dell,PE R730,2RJ2S52,254214,North,N100,C,,2015-06-29,2018-06-18,-383,P0053171,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,AnuPathak,Academics,ESXi Host - SMSIT - vCloud
+Host-14,Dell,PE R730xd,DC2MQD2,252684,Lakeshore,Wel400,A,,2016-08-20,2021-08-21,777,P0068444,In Build,PROD,Yes,In Planning,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,NVR - Welcome Centre
+Host-15,Dell,PE M630,JLSCSD2,254233,North,N100,C,,2016-10-14,2021-10-15,832,P0069878,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-16,Dell,PE R730,2K25S52,254215,North,N100,C,,2015-06-29,2018-06-18,-383,P0053171,In Use,PROD,No,NA,MAWeekend,Tier 2,ScottEng,AnuPathak,Academics,ESXi Host - SMSIT - vCloud
+Host-17,Dell,PE M630,7ZLGS52,252787,North,N100,C,,2015-07-11,2020-07-12,372,P0053463,In Use,DEV,No,NA,Weeknights,Tier 3,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod WL
+Host-18,Dell,PE R730,2X26S52,254216,North,N100,C,,2015-06-29,2018-06-18,-383,P0053171,In Use,PROD,No,NA,MAWeekend,Tier 2,ScottEng,AnuPathak,Academics,ESXi Host - SMSIT - vCloud
+Host-19,Dell,PE M630,6WKVBM2,255202,North,N100,C,,2018-01-10,2023-01-11,1285,P0083920,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-20,Dell,PE M630,GYVLB42,253921,North,N100,E,,2015-04-20,2020-04-21,290,P0047464,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Authentication,Domain Controller
+Host-21,Dell,PE M630,7X9HS52,252784,North,N100,E,,2015-07-11,2020-07-12,372,P0053459,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Prod NWL
+Host-22,Dell,PE M630,7X1DS52,252788,North,N100,E,,2015-07-11,2020-07-12,372,P0053463,In Use,TEST,No,NA,Weeknights,Tier 3,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod WL
+Host-23,Dell,PE R510,3FF9JS1,246421,North,E300,F,,2012-02-11,2017-02-11,-875,P0005550,In Use,PROD,Yes,In Planning,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-24,Dell,PE 210 II,753Y65J,251288,North,E300,F,,2011-11-28,2014-11-28,-1681,,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,Denis LeB,OmarB,Public,Public Safety
+Host-25,Dell,PE R720,BBF28Y1,252102,North,N100,E,,2013-08-21,2018-08-22,-318,P0026759,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,RogLebeau,Academics,ESXi Host - Applied vCloud
+Host-26,Dell,PE R815,6W3W8Z1,253922,North,N100,E,,2013-11-07,2018-11-08,-240,P0029432,In Use,PROD,No,NA,MAWeekend,Tier 2,AlexLion,BruceMacMillan,Infrastructure,Server Team Management
+Host-27,Dell,PE M630,6WKXBM2,255203,North,N100,E,,2018-01-10,2023-01-11,1285,P0083920,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-28,Dell,PE R530,6JCWDB2,252683,North,N100,E,,2016-03-17,2021-03-18,621,P0062268,In Use,PROD,Yes,In Planning,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,NVR - Pharmacy Lab
+Host-29,Dell,PE R730,JBC1942,253550,North,E300,F,,2015-02-14,2020-02-15,224,P0047046,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Infrastructure,Server Team Management
+Host-30,Dell,PE R710,JR7RXR1,246425,North,N100,E,,2012-02-28,2017-03-01,-857,,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,RogLebeau,Academics,ESXi Host - Applied vCloud
+Host-31,Dell,PE M630,GYVCB42,253914,North,N100,D,,2015-04-20,2020-04-21,290,P0047464,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Data Protection,Commvault Media Agent
+Host-32,Dell,PE R720,8LZW6X1,252127,North,N100,G,,2013-01-28,2018-01-29,-523,P0018745,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,RogLebeau,Academics,ESXi Host - Applied vCloud
+Host-33,Dell,PE M630,7ZLDS52,252789,North,N100,G,,2015-07-11,2020-07-12,372,P0053463,In Use,TEST,No,NA,Weeknights,Tier 3,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod WL
+Host-34,Dell,PE R815,6W3X8Z1,253564,North,N100,G,,2013-11-07,2018-11-08,-240,P0029432,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Monitoring,Solarwinds monitor
+Host-35,Dell,PE M630,6WKYBM2,255204,North,N100,G,,2018-01-10,2023-01-11,1285,P0083920,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-36,Dell,PE T320,30XSGX1,252130,Carrier,CAR209,A,,2013-06-19,2018-06-20,-381,P0022275,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-37,Dell,PE M630,GYWHB42,253917,North,N100,G,,2015-04-20,2020-04-21,290,P0047464,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,JaimeVan,BruceMacMillan,Unknown,Networking
+Host-38,Dell,PE R720xd,DM1KSW1,252107,Lakeshore,Wel400,A,,2013-03-26,2018-03-27,-466,P0021021,In Build,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-39,Dell,PE M630,6WKWBM2,255209,North,N100,G,,2018-01-10,2023-01-11,1285,P0083920,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-40,Dell,PE M630,86D8C42,253911,North,N100,H,,2015-04-13,2020-04-14,283,P0047465,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Data Protection,Commvault Media Agent - FC
+Host-41,Dell,PE R805,3KWGYH1,246357,Lakeshore,Wel400,A,,2009-01-14,2014-01-14,-1999,P073091,In Build,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AndrewGon,BruceMacMillan,Authentication,Radius
+Host-42,Dell,PE R720xd,5NQ4B42,253566,North,N100,H,,2015-03-04,2020-03-05,243,P0047380,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-43,Dell,PE M630,7X1HS52,252790,North,N100,H,,2015-07-11,2020-07-12,372,P0053463,In Use,TEST,No,NA,Weeknights,Tier 3,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod NWL
+Host-44,Dell,PE M630,G9NX942,253902,North,N100,H,,2015-03-12,2020-03-13,251,P0047611,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - vCloudmanagement
+Host-45,Dell,PE R820,1NVVL02,253011,North,N100,H,,2014-05-05,2019-05-06,-61,P0037329,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-46,Dell,PE R210 II,853Y65J,251287,North,E300,F,,2011-11-28,2014-11-28,-1681,,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,Denis LeB,OmarB,Public,Public Safety
+Host-47,Dell,PE M630,GYVBB42,253916,North,N100,H,,2015-04-20,2020-04-21,290,P0047464,In Use,DEV,No,NA,Weeknights,Tier 3,BryanNice,BruceMacMillan,Authentication,Domain Controller
+Host-48,Dell,PE M620,F03MBY1,252105,North,N100,H,,2013-10-19,2018-10-20,-259,P0027668,In Use,TEST,No,NA,Weeknights,Tier 3,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod DB
+Host-49,Dell,PE R720xd,4CX0TW1,252126,North,E300,F,,2013-03-18,2018-03-19,-474,P0019965,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-50,Dell,PE M620,HXVMW12,253006,North,N100,H,,2014-08-11,2019-08-12,37,P0040834,In Use,UAT,No,NA,Weeknights,Tier 2,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod NWL
+Host-51,Dell,PE R710,7D2NMK1,246371,North,E300,F,,2009-07-23,2014-07-23,-1809,P091183,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,External,External DNS
+Host-52,Dell,PE M630,7X1KS52,253930,North,N100,H,,2015-07-11,2020-07-12,372,P0053460,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Prod WL
+Host-53,Dell,PE M620,HXVNW12,253007,North,N100,H,,2014-08-11,2019-08-12,37,P0040834,In Use,UAT,No,NA,Weeknights,Tier 2,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod NWL
+Host-54,Dell,PE R720xd,GVYW6X1,252124,North,E300,F,,2013-01-26,2018-01-27,-525,P0018627,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-55,Dell,PE R720xd,6806CZ1,252777,North,E300,F,,2013-12-23,2018-12-24,-194,P0031044,In Use,PROD,Yes,COMPLETE,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-56,Dell,PE R730XD,8341KH2,254239,North,E300,F,,2017-05-29,2022-05-30,1059,P0078262,In Use,PROD,Yes,COMPLETE,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-57,Dell,PE R730xd,61QPQD2,252690,Lakeshore,Wel400,B,,2016-08-24,2021-08-25,781,P0068620,In Build,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-58,Dell,PE R820,1NTVL02,253020,North,E300,F,,2014-05-05,2019-05-06,-61,P0037329,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-59,Dell,PE M630,JLS9SD2,254234,North,N100,H,,2016-10-14,2021-10-15,832,P0069878,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-60,Dell,PE R720xd,362XP22,254148,North,E300,J,,2014-11-08,2018-02-07,-514,,Decommisioned,PROD,NO,,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Sleepfrastructure,Google Search Applicance
+Host-61,Dell,PE T320,30XVGX1,252108,Medical,Med306,A,,2013-06-19,2018-06-20,-381,P0022275,In Use,PROD,Yes,COMPLETE,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-62,Dell,PE M620,HXTNW12,253004,North,N100,H,,2014-08-11,2019-08-12,37,P0040834,In Use,UAT,No,NA,Weeknights,Tier 2,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod NWL
+Host-63,Dell,PE M630,JLSBSD2,254235,North,N100,I,,2016-10-14,2021-10-15,832,P0069878,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-64,Dell,PE M630,GJKZ942,253570,North,N100,I,,2015-03-12,2020-03-13,251,P0047611,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - vCloudmanagement
+Host-65,Dell,PE M630,GBM3B42,253569,North,N100,I,,2015-03-09,2020-03-10,248,P0048098,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Analytics,Splunk
+Host-66,Dell,PE R720xd,6808CZ1,253548,North,E300,F,,2013-12-23,2018-12-24,-194,P0031044,In Use,PROD,Yes,COMPLETE,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-67,Dell,PE R820,1NVTL02,253012,North,N100,I,,2014-05-05,2019-05-06,-61,P0037329,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-68,Dell,PE R730,2RJ3S52,254213,North,N100,I,,2015-06-29,2018-06-18,-383,P0053171,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,BryanNice,AnuPathak,Arademirs,ESXi Host - SMSIT - vCloud
+Host-69,Dell,PE R815,DT86XV1,251294,North,E300,G,,2012-11-15,2017-11-16,-597,P0015446,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-70,Dell,PE R815,B16DGT1,246424,North,E300,G,,2012-03-16,2017-03-17,-841,P0007251,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-71,Dell,PE R815,3300TW1,252122,North,E300,A,,2013-03-25,2018-03-19,-474,P0020464,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-72,Dell,PE R815,916DGT1,246428,North,E300,D,,2012-03-16,2017-03-17,-841,P0007251,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-73,Dell,PE R815,BZS0TS1,243966,North,N100,I,,2012-01-19,2019-01-20,-167,P0005252,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,StevieVaughan,OmarB,Exchange,Exchange Mailbox
+Host-74,Dell,PE M620,HXVLW12,253005,North,N100,I,,2014-08-11,2019-08-12,37,P0040834,In Use,UAT,No,In Planning,Weeknights,Tier 2,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod NWL
+Host-75,Dell,PE R720xd,6807CZ1,253549,Lakeshore,Wel400,B,,2013-12-23,2018-12-24,-194,P0031044,In Build,PROD,Yes,In Planning,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-76,Dell,PE M630,7WVLS52,253929,North,N100,I,,2015-07-11,2020-07-12,372,P0053460,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Prod WL
+Host-77,Dell,PE M630,GYVNB42,253919,North,N100,J,,2015-04-20,2020-04-21,290,P0047464,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Authentication,Domain Controller
+Host-78,Dell,PE R730xd,61QQQD2,254238,North,N100,J,,2016-08-24,2021-08-25,781,P0068620,In Use,PROD,Yes,In Planning,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-79,Dell,PE R530,8239KB2,254230,Lakeshore,Wel400,B,,2016-07-06,2021-07-07,732,P0067197,In Build,PROD,Yes,In Planning,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,NVR - Test Center Lakeshore
+Host-80,Dell,PE R510,6XCVVQ1,246469,Lakeshore,Wel400,B,,2011-06-07,2016-06-07,-1124,P0001350,In Build,PROD,Yes,In Planning,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-81,Dell,PE T710,9TJM6Q1,246470,North,E300,J,,2011-02-25,2016-02-25,-1227,P096399,Decommisioned,PROD,NO,In Planning,MAWeekend,Tier 1,JeffBridge,OmarB,Client Services,HRT - Opera
+Host-82,Dell,PE R810,2JWHXP1,246464,North,E300,I,,2011-01-24,2016-01-24,-1259,P095903,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Data Protection,Commvault Media Agent - FC
+Host-83,Dell,PE M630,7X9FS52,252782,North,N100,J,,2015-07-11,2020-07-12,372,P0053459,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Prod NWL
+Host-84,Dell,PE R810,5JWHXP1,246465,North,E300,G,,2011-01-24,2016-01-24,-1259,P095903,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Data Protection,Commvault Media Agent - FC
+Host-85,Dell,PE R710,FJBQPS1,251286,North,E300,A,,2012-07-09,2015-10-09,-1366,,In Use,PROD,Yes,In Planning,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-86,Dell,PE M630,G9NW942,253903,North,N100,D,,2015-03-12,2020-03-13,251,P0047611,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - vCloudmanagement
+Host-87,Dell,PE M630,T9WW881,333333,North,E300,J,,2015-03-12,2020-03-13,251,,Decommisioned,PROD,NO,In Planning,MAWeekend,Tier 1,JeffBridge,OmarB,Client Services,HRT - Micros
+Host-88,Dell,PE2950,HZZDNB1,242625,North,E300,I,,2006-08-23,2011-08-22,-2875,,Decommisioned,PROD,NO,In Planning,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Sleepknozleep,ISA
+Host-89,Dell,PE M630,7X9DS52,252785,North,N100,L,,2015-07-11,2020-07-12,372,P0053459,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Prod NWL
+Host-90,Dell,PE M630,6WKZBM2,255205,North,N100,L,,2018-01-10,2023-01-11,1285,P0083920,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Infrastructure,ESXi Host - vCloudmanagement
+Host-91,Dell,PE R530,D74BB42,253909,North,N100,L,,2015-03-24,2020-03-25,263,P0048690,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety - Test Center NVR
+Host-92,Dell,PE R510,1S5S8V1,246430,North,E300,D,,2012-08-27,2017-08-28,-677,,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-93,Dell,PE M630,GYVMB42,253915,North,N100,L,,2015-04-20,2020-04-21,290,P0047464,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Data Protection,Commvault Media Agent
+Host-94,Dell,PE T330,DX3MRD2,254231,Fitness,ATH206c,A,,2016-09-23,2021-09-24,811,P0068445,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,NVR - Athletics Lake
+Host-95,Cisco,UCS C220 M3,FCH1812V2RU,253009,North,N100,L,,,2019-06-23,-13,P0036168,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-96,Dell,PE R710,BD2NMK1,246372,North,E300,I,,2009-07-23,2014-07-23,-1809,P091183,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AlexLion,BruceMacMillan,External,External DNS
+Host-97,Dell,PE R820,FM3P9Z1,252109,North,E300,F,,2013-11-26,2018-11-27,-221,P0029988,Decommisioned,PROD,NO,Migration Scheduled,MAWeekend,Tier 1,AlexLion,BruceMacMillan,External,Computrition*******
+Host-98,Dell,PE T320,30YSGX1,252772,Birmingham,BIR211,G,,2013-06-19,2018-06-20,-381,P0022275,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-99,Dell,PE R805,B55P4H1,246266,North,E300,K,,2008-08-13,2013-08-13,-2153,P072340,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Monitoring,Solarwinds monitor
+Host-100,Dell,PE R805,F55P4H1,246261,North,E300,C,,2008-08-13,2013-08-13,-2153,P072340,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Monitoring,Solarwinds monitor
+Host-101,Dell,PE R805,G55P4H1,246262,North,E300,B,,2008-08-13,2013-08-13,-2153,P072340,Decommisioned,PROD,NO,,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Infrastructure,Server Team Management
+Host-102,Dell,PE M630,6WL0CM2,255206,North,N100,L,,2018-01-10,2023-01-11,1285,P0083920,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Infrastructure,ESXi Host - vCloudmanagement
+Host-103,Dell,PE M620,F03LBY1,252103,North,N100,L,,2013-10-19,2018-10-20,-259,P0027668,In Use,UAT,No,Migration Scheduled,Weeknights,Tier 2,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod DB
+Host-104,Dell,PE R820,1NV0M02,253008,North,N100,L,,2014-05-05,2019-05-06,-61,P0037329,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-105,Dell,PE R730,C4CSKH2,254218,North,N100,M,,2017-06-18,2022-06-18,1078,P0078937,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,ScottEng,AnuPathak,Academics,ESXi Host - SMSIT - vCloud
+Host-106,Cisco,UCS C220 M3,FCH1812V2JE,253010,North,N100,M,,,2019-06-23,-13,P0036168,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-107,Dell,PE M630,7X1GS52,253925,North,N100,M,,2015-07-11,2020-07-12,372,P0053463,In Use,DEV,No,Migration Scheduled,Weeknights,Tier 3,ScottEng,JamesTib,Enterprise Services,ESP DBs
+Host-108,Dell,PE M630,83NJS52,253926,North,N100,M,,2015-07-11,2020-07-12,372,P0053463,In Use,DEV,No,NA,Weeknights,Tier 3,ScottEng,JamesTib,Enterprise Services,ESP DBs
+Host-109,Dell,PE M630,7ZLHS52,253927,North,N100,M,,2015-07-11,2020-07-12,372,P0053463,In Use,DEV,No,NA,Weeknights,Tier 3,ScottEng,JamesTib,Enterprise Services,ESP DBs
+Host-110,Dell,PE M630,GYWBB42,253913,North,N100,M,,2015-04-20,2020-04-21,290,P0047464,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Data Protection,Commvault Media Agent
+Host-111,Dell,PE M630,8BH9C42,253912,North,N100,M,,2015-04-13,2020-04-14,283,P0047465,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Data Protection,Commvault Media Agent - FC
+Host-112,Dell,PE R720xd,5NQW942,253565,North,N100,M,,2015-03-04,2020-03-05,243,P0047380,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-113,Dell,PE T320,30XTGX1,252771,Jusitce,AN106,A,,2013-06-19,2018-06-20,-381,P0022275,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-114,Dell,PE R730XD,8340KH2,254240,North,E300,B,,2017-05-29,2022-05-30,1059,P0078262,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-115,Dell,PE T320,HN5RV12,252677,Woodbine,WD202J,A,,2014-06-20,2019-06-21,-15,P0037664,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-116,Dell,PE R820,9C7Y8Z1,252774,North,N100,M,,2013-11-09,2018-11-10,-238,P0029434,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - vCloudmanagement
+Host-117,Dell,PE R815,8ZS0TS1,243964,North,N100,O,,2012-01-19,2019-01-20,-167,P0005252,In Use,PROD,Yes,Migration Scheduled,MAWeekend,Tier 1,StevieVaughan,OmarB,Exchange,Exchange Mailbox
+Host-118,Dell,PE R720xd,3WYW6X1,252125,North,E300,B,,2013-01-29,2018-01-30,-522,P0018627,In Use,PROD,Yes,Migration Scheduled,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-119,Dell,PE T320,C7MDW52,254221,Arts,ART202,A,,2015-09-23,2020-09-24,446,P0055856,In Use,PROD,Yes,In Planning,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-120,Dell,PE R820,9C8X8Z1,252773,North,N100,O,,2013-11-09,2018-11-10,-238,P0029434,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - vCloudmanagement
+Host-121,Dell,PE R820,9C8Y8Z1,253561,North,N100,O,,2013-11-09,2018-11-10,-238,P0029434,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - vCloudmanagement
+Host-122,Dell,PE R815,9ZS0TS1,243965,North,E300,B,,2012-01-19,2019-01-20,-167,P0005252,Decommisioned,PROD,NO,In Planning,MAWeekend,Tier 1,StevieVaughan,OmarB,Exchange,Exchange Mailbox
+Host-123,Dell,PE R730,2S13B42,253908,Lakeshore,Wel400,C,,2015-03-02,2020-03-03,241,P0047612,In Build,PROD,Yes,In Planning,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Authentication,Domain Controller
+Host-124,Dell,PE R820,9C8W8Z1,253562,North,N100,O,,2013-11-09,2018-11-10,-238,P0029434,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Infrastructure,ESXi Host - vCloudmanagement
+Host-125,Dell,PE2950,FZZDNB1,242624,North,E300,G,,2006-08-23,2011-08-22,-2875,,Sleep,PROD,NO,In Planning,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Sleepknozleep,ISA
+Host-126,Dell,PE R820,1NTTL02,252672,North,E300,A,,2014-05-05,2019-05-06,-61,P0037329,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-127,Dell,PE R815,C8CW8Z1,252678,North,E300,D,,2013-11-09,2017-11-10,-603,P0029433,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-128,Dell,PE M620,F02PBY1,252106,North,N100,J,,2013-10-19,2018-10-20,-259,P0027668,In Use,UAT,No,In Planning,Weeknights,Tier 2,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Non-Prod DB
+Host-129,Cisco,UCS C220 M3,FCH1812V2GU,253014,North,N100,I,,,2019-06-23,-13,P0036168,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-130,Dell,PE R815,CZS0TS1,243967,North,E300,K,,2012-01-19,2019-01-20,-167,P0005252,Decommisioned,PROD,NO,In Planning,MAWeekend,Tier 1,StevieVaughan,OmarB,Exchange,Exchange Mailbox
+Host-131,Dell,PE R820,1NTWL02,252673,North,E300,L,,2014-05-05,2019-05-06,-61,P0037329,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-132,Dell,PE M630,7X9JS52,252783,North,N100,O,,2015-07-11,2020-07-12,372,P0053459,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Prod NWL
+Host-133,Dell,PE M630,7X9GS52,252781,North,N100,O,,2015-07-11,2020-07-12,372,P0053459,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,JamesTib,Enterprise Services,ESXi Host - ESP Prod NWL
+Host-134,Cisco,UCS C220 M3,FCH1812V2BM,253013,North,N100,O,,,2019-06-23,-13,P0036168,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-135,Dell,PE M630,GYVHB42,253920,North,N100,T,,2015-04-20,2020-04-21,290,P0047464,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AlexLion,BruceMacMillan,Authentication,Domain Controller
+Host-136,Dell,PE R815,32ZZSW1,252123,North,E300,L,,2013-03-25,2018-03-19,-474,P0020464,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,ScottEng,BruceMacMillan,Infrastructure,ESXi Host - prd-its-vcenter
+Host-137,Dell,PE R720xd,5FH5B42,253567,North,N100,T,,2015-03-04,2020-03-05,243,P0047380,In Use,PROD,Yes,In Planning,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-138,Dell,PE R720,2590M02,253001,North,N100,T,,2014-05-08,2017-05-09,-788,P0037318,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,OmarB,Client Services,ESXi Host - VDI
+Host-139,Dell,PE R720,259WL02,253002,North,N100,T,,2014-05-08,2017-05-09,-788,P0037318,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,OmarB,Client Services,ESXi Host - VDI
+Host-140,Dell,PE R720,258ZL02,253011,North,N100,T,,2014-05-08,2017-05-09,-788,P0037317,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,OmarB,Client Services,ESXi Host - VDI
+Host-141,Dell,PE R720xd,H99NW12,252679,North,N100,T,,2014-08-15,2019-08-16,41,P0039695,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AndrewGon,BruceMacMillan,Unkno9n,Airwave
+Host-142,Dell,PE M630,GBM2B42,253568,North,N100,T,,2015-03-09,2020-03-10,248,P0048098,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Analytics,Splunk
+Host-143,Dell,PE R810,3TJTJN1,246388,North,E300,L,,2010-08-11,2015-08-11,-1425,P094621,Sleep,PROD,NO,,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Data Protection,Commvault Media Agent - FC
+Host-144,Dell,PE R720,7TTWFX1,252129,North,N100,T,,2013-06-06,2018-06-07,-394,P0024028,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,ScottEng,RogLebeau,Academics,ESXi Host - Applied vCloud
+Host-145,Dell,PE R815,716DGT1,246427,North,E300,J,,2012-03-16,2018-03-18,-475,P0007251,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,AdelGazz,ReneB,Unkno6n,MSSQL
+Host-146,Dell,PE R730XD,834FJH2,255201,North,E300,I,,2017-05-29,2022-05-30,1059,P0078262,In Use,PROD,Yes,COMPLETE,Wednesdays,Tier 1,Denis LeB,AndreGiant,Public Safety,Public Safety NVR
+Host-147,Dell,PE M630,834FJH3,277802,North,N100,D,,2019-06-06,2023-06-06,1431,P0188262,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Client Services,ESXi Host - VDI
+Host-148,Dell,PE M631,934BTH2,277803,North,N100,D,,2019-06-06,2023-06-06,1431,P0188262,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Client Services,ESXi Host - VDI
+Host-149,Dell,PE M632,843CTL2,277804,North,N100,D,,2019-06-06,2023-06-06,1431,P0188262,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Client Services,ESXi Host - VDI
+Host-150,Dell,PE M633,444TCI1,277805,North,N100,T,,2019-06-06,2023-06-06,1431,P0188262,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,BryanNice,BruceMacMillan,Client Services,ESXi Host - VDI
+Host-151,Dell,PE M634,421BET6,277806,North,N100,T,,2019-06-06,2023-06-06,1431,P0188262,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,Denis LeB,BruceMacMillan,Public Safety,Public Safety NVR
+Host-152,Dell,PE M635,390WTT0,277807,North,N100,O,,2019-03-06,2023-03-06,1339,P0189321,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,Denis LeB,BruceMacMillan,Public Safety,Public Safety NVR
+Host-153,Dell,PE M636,987UUU4,277808,North,N100,O,,2019-03-06,2023-03-06,1339,P0189321,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Data Protection,Commvault Media Agent - FC
+Host-154,Dell,PE M637,639YYZ8,277809,North,N100,O,,2019-06-06,2023-06-06,1431,P0189321,In Build,PROD,Yes,COMPLETE,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Data Protection,Commvault Media Agent - FC
+Host-155,Dell,PE M638,111RCV2,277810,North,N100,T,,2019-06-06,2023-06-06,1431,P0189321,In Build,PROD,Yes,COMPLETE,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-156,Dell,PE M639,121QWR3,277811,North,N100,T,,2019-06-06,2023-06-06,1431,PO189343,In Build,PROD,Yes,COMPLETE,MAWeekend,Tier 1,AdelPastry,BruceMacMillan,Unified Communication,ESXi Host - UC
+Host-157,Dell,PE M640,725WCD5,277812,North,N100,L,,2019-06-06,2023-06-06,1431,PO189343,In Use,PROD,Yes,COMPLETE,MAWeekend,Tier 1,AlexLion,BruceMacMillan,External,External DNS
+Host-158,Dell,PE M641,963QAZ4,277813,North,N100,K,,2019-06-06,2023-06-06,1431,PO189343,In Use,PROD,Yes,In Planning,MAWeekend,Tier 1,AlexLion,BruceMacMillan,External,External WEB
+Host-159,Dell,PE M642,852YHN5,277814,Lakeshore,Wel400,F,,2019-06-15,2023-06-15,1440,PO189200,In Build,DR,NA,NA,Weeknights,Tier 1,ScottEng,BruceMacMillan,Enterprise Services,ESXi Host - ESP Prod NWL
+Host-160,Dell,PE M643,741RFV0,277815,Lakeshore,Wel401,F,,2019-06-16,2023-06-16,1441,PO189200,In Build,DR,NA,NA,Weeknights,Tier 1,ScottEng,BruceMacMillan,Enterprise Services,ESXi Host - ESP Prod NWL
+Host-161,Dell,PE M644,258MJU8,277816,Lakeshore,Wel402,F,,2019-06-16,2023-06-16,1441,PO189200,In Build,DR,NA,NA,Weeknights,Tier 1,ScottEng,BruceMacMillan,Enterprise Services,ESXi Host - ESP Prod NWL
+Host-162,Dell,PE M645,147TDN3,277817,Lakeshore,Wel403,F,,2019-06-16,2023-06-16,1441,PO189200,In Build,DR,NA,NA,Weeknights,Tier 1,ScottEng,BruceMacMillan,Enterprise Services,ESXi Host - ESP Prod NWL
+Host-163,Dell,PE M646,657OLM9,277818,Lakeshore,Wel404,F,,2019-06-16,2023-06-16,1441,PO189200,In Build,DR,NA,NA,Weeknights,Tier 1,ScottEng,BruceMacMillan,Enterprise Services,ESXi Host - ESP Prod NWL
+Host-164,Dell,PE M647,846RDZ7,277819,Lakeshore,Wel405,F,,2019-06-20,2023-06-20,1445,PO189200,In Build,DR,NA,NA,Weeknights,Tier 1,ScottEng,BruceMacMillan,Enterprise Services,ESXi Host - ESP Prod NWL
+Host-165,Dell,PE M648,236UGN8,277820,Lakeshore,Wel406,F,,2019-06-21,2023-06-21,1446,PO189200,In Build,DR,NA,NA,Weeknights,Tier 1,AdelPastry,BruceMacMillan,Unified Communication,ESXi Host - UC
